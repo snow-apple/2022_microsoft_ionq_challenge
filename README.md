@@ -11,12 +11,14 @@ Greatly based on ur quizlet model,and using Lana's cloumns as the visual effects
  I think that we can just print a list of the topics where their order represents the column that they are in
  ##But I'll still find the code for visuals for our presentation
 
-Need a list of 4 topics
-  List of topics are printed
-  Players can manipulate circuits to increase the chance of picking a topic
-    Can add a maximum of 3 gates
-Each topic has 4 questions (for now)
-  Questions are randomly chosen by computer (possibly by player)
-  If answered correctly, points go up
-  Return to topic choosing phase
-Repeat for the specified amount of rounds
+1. Need a list of 4 topics
+  a) List of topics are printed
+  b) Players can manipulate circuits to increase the chance of picking a topic
+  c) Can add a maximum of 3 gates
+
+2. Each topic has 4 questions (for now)
+  a) Questions are randomly chosen by computer (possibly by player)
+  b) If answered correctly, points go up
+  c) Return to topic choosing phase
+
+3. Repeat for the specified amount of rounds
