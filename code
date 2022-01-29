@@ -1,0 +1,42 @@
+// print currrent state of circuit----stage of The participants interaction and inputs
+##
+print (list of the topics and corresponding state ie topic:state)
+##
+print message(Given the state of the system use the gates provided to manipulate the circuit so as to maximise the probability of finding your desired state)
+##
+Prompt for adding the gates(also print the list of available gates)
+##
+Take the participants gates in form (Circuit2="save it here")
+##
+
+------Selection of topic
+Act out Circuit 2
+##
+Get the results(in form 00,01,10,11)
+##
+save results in variable eg t = 01
+##
+If t==00 print (topic 1)
+elif t==01 print (topic 2)
+elif t==10 print (topic 3)
+else print (topic 4)
+
+-------selection of Question
+if t==00 {
+    //we will have to figure out a function(t) such that we can produce the question by just giving the value of t 
+
+     the questions are represented by 00,01,10,11 so we need a circuit with H(q0)and H(q1)
+     ##
+     measure the circuit
+     ##
+     the answer you get{00/01/10/11}
+     let's put this answer in a variable-v
+     ##
+     if v==00 print (Topic 1 Question 1)
+     elif v==01 print (Topic 1 question 2)
+     elif v==10 print (Topic 1 question3)
+     else print (Topic 1 question4)
+
+}
+go back to the stage of choosing the Question
+##
