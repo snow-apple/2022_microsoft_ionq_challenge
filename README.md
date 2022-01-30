@@ -1,7 +1,7 @@
 # QUANTUM JEOPARDY
 Employ Quantum states to increase your chances to WIN!
 
-## TEAM
+## TEAM: highQuHACKers
 Shwetlana Jha, Skai Nzeuton, Abha Naik
 
 ## DATE
