@@ -1,5 +1,5 @@
 # THE QUANTUM QUIZ
-Employ Quantum states to increase your chances to WIN!
+Employ quantum states to increase your chances to WIN!
 
 ## TEAM
 Shwetlana Jha, Skai Nzeuton, Abha Naik
