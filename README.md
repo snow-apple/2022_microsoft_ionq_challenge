@@ -1,7 +1,17 @@
-# MIT iQuHACK 2022 Project
+# THE QUANTUM QUIZ
+Emply Quantum states to increase your chances to WIN!
 
-Project coming soon...
-##The Quantum Quiz Game...........(Just a bad name :))
+## TEAM
+Shwetlana , Skai , Abha
+
+## ABSTRACT
+We can hear people cheering aloud as the high school quiz team contest for a National level trophy. As a member of the team you wish to win as many points as possible. After the cuthroat rounds here comes the round where your Quantum Computing Knowledge comes to your aid.In this round you are given 4 topics,one topic is the field of your expertise.
+You badly wish that your team gets this topic,however the possibility of getting the topic is not random. These topics are in a superposition in a 2 qubit system.Each topic represent a possible outcome of measuring the superposition -AND THAT OUTCOME is the topic for your team. You are super excited as you are told that applying some gates you will be able to manipulate the current state of the system so as to maximise the probability of finding your target topic.
+
+## HOW TO PLAY
+1. Participants begin 
+
+
 Greatly based on ur quizlet model,and using Lana's cloumns as the visual effects. Say we use this game in a competition. Participants are shown 4 columns representing 4 topics representing 4  Quantum states.They have a favourite topic in one of them,they want to increase the probability of finding that particular state representing their favorite topic. For that they need to design a circuit (a few qubits) to get the desired out put. this is based on my understanding -please point out the drawbacks
 
  there are 4 options essentially(each option is a quantum state using a few qubits). And the participants have to create a quantum circuit that would get them to that state which increases the prob amplitude of the state representing their prefered topic
