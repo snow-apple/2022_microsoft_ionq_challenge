@@ -41,6 +41,10 @@ We created a `QuantumJeopardy` class, which can be used to run the game describe
 #### Level 2
 <img src="img/Level2.png" style="width: 100%">
 
+#### Running on Real Quantum Computer
+<img src="img/RealQC.png" style="width: 100%">
+
+
 ## Acknowledgments
 
 Thank you to Parmeet for answering our questions, and thanks to the MIT iQuHACK team for organizing such a wonderful event!
