@@ -8,9 +8,7 @@ Shwetlana Jha , Skai Nzeuton , Abha Naik
 30 Jan 2022
 
 ## ABSTRACT
-We can hear people cheering aloud as the high school quiz team contest for a national level trophy. As a member of the team you wish to win as many points as possible. After the cut-throat rounds with rivals here comes the round where your Quantum Computing Knowledge comes to your aid. In this round you are given 4 topics,one topic is the field of your expertise.
-As such, you you really want your team to get this topic.
-However, unlike a Classical Quiz, the possibility of getting the topic is not completely random. These topics are in a superposition in a 2 qubit system. Each topic represent a possible outcome of measuring the superposition, where the outcome is the topic for your team. You are super excited as you are told that by applying some gates you will be able to manipulate the initial quantum state of the system so as to maximise the probability of finding your target topic. This initial quantum state can get increasingly complex as you increase the level, making the game more difficult. 
+We can hear people cheering aloud as the high school quiz team contest for a national level trophy. As a member of the team you wish to win as many points as possible. After the cut-throat rounds with rivals here comes the round where your Quantum Computing Knowledge comes to your aid. In this round you are given 4 topics,one topic is the field of your expertise. As such, you you really want your team to get this topic. However, unlike a Classical Quiz, the possibility of getting the topic is not completely random. These topics are in a superposition in a 2 qubit system. Each topic represent a possible outcome of measuring the superposition, where the outcome is the topic for your team. You are super excited as you are told that by applying some gates you will be able to manipulate the initial quantum state of the system so as to maximise the probability of finding your target topic. This initial quantum state can get increasingly complex as you increase the level, making the game more difficult. 
 
 ## HOW TO PLAY
 1. Participants begin with choosing the number of rounds.(In the case of a Quiz this number would be decided by the organisers)
@@ -43,4 +41,6 @@ We created a `QuantumJeopardy` class, which can be used to run the game describe
 #### Level 2
 <img src="img/Level2.png" style="width: 100%">
 
+## Acknowledgments
 
+Thank you to Parmeet for answering our questions, and thanks to the MIT iQuHACK team for organizing such a wonderful event!
