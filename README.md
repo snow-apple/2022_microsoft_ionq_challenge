@@ -24,7 +24,7 @@ You badly wish that your team gets this topic,however unlike a Classical Quiz th
 ## HOW HIGH IS THE PROBABILITY OF FINDING QUANTUMNESS IN THIS GAME?
 While in a classical quiz is absolutely random or the players can manually select a topic, adding the properties of gate operations not only adds a superposition of predictability and randomness to the game but also makes the players develop a need to learn about gate operations and probability amplitude and creates curiosity in the minds of the viewers about this wierd thing called "superposition".Here the topic until selected is in a superposition of all topics.
 
-## Implementation
+## IMPLEMENTATION
 
 
 
